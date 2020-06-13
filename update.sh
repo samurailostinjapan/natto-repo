@@ -16,7 +16,7 @@
 #
 #################################################################################################################
 
-repo-add inu-repo.db.tar.gz *.pkg.tar.zst
+repo-add natto-repo.db.tar.gz *.pkg.tar.zst
  
 
-#repo-remove inu-repo.db.tar.gz *.pkg.tar.xz
+#repo-remove natto-repo.db.tar.gz *.pkg.tar.xz
